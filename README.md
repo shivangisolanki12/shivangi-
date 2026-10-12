@@ -1,4 +1,4 @@
-# shivangi-
+
 👨‍💻 About Me
 
 🎓 MSc Data Science student passionate about data-driven problem solving
